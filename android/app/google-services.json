@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "314220007855",
+    "project_id": "coachiko-dietapp",
+    "storage_bucket": "coachiko-dietapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314220007855:android:40308f9a519007460e9f5a",
+        "android_client_info": {
+          "package_name": "com.example.coachiko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314220007855-7ps0450khpln85dtaa9bmh0tpvm5i6kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmLxjaOEeQTGJDrQogP9nbdAoOoOOHXIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314220007855-315nn75mlqfisipdl50rngi3tpkr3am2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "314220007855-91gaemdi671rcrnct4ced2h6j6jiaed1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.coachikoDietapp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314220007855:android:7d08f9161e76294d0e9f5a",
+        "android_client_info": {
+          "package_name": "com.example.coachiko_dietapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314220007855-f7bc88csleipk3pcg4fnt4er6pe5mv7t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.coachiko_dietapp",
+            "certificate_hash": "992a41070b06cf0bf9a2024ba5d19e57ab0dd0ca"
+          }
+        },
+        {
+          "client_id": "314220007855-7ps0450khpln85dtaa9bmh0tpvm5i6kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmLxjaOEeQTGJDrQogP9nbdAoOoOOHXIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314220007855-315nn75mlqfisipdl50rngi3tpkr3am2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "314220007855-91gaemdi671rcrnct4ced2h6j6jiaed1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.coachikoDietapp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
